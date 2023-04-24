@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7f1ff28-9c26-409d-85c8-aa80b65ce581" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feather-icons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ActivityIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AirplayIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlertCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlertOctagonIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlertTriangleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlignCenterIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlignJustifyIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlignLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AlignRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AnchorIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ApertureIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArchiveIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowDownCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowDownIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowDownLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowDownRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowLeftCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowRightCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowUpCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowUpIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowUpLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ArrowUpRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AtSignIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/AwardIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BarChart2Icon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BarChartIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BatteryChargingIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BatteryIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BellIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BellOffIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BluetoothIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BoldIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BookIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BookOpenIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BookmarkIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BoxIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/BriefcaseIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CalendarIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CameraIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CameraOffIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CastIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CheckCircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CheckIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CheckSquareIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronDownIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronUpIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronsDownIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronsLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronsRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChevronsUpIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ChromeIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CircleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ClipboardIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ClockIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudDrizzleIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudLightningIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudOffIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudRainIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CloudSnowIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CodeIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CodePenIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CodeSandboxIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CoffeeIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/ColumnIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CommandIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CompassIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CopyIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CornerDownLeftIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CornerDownRightIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CornerLeftDownIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/CornerLeftUpIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/SVGIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/github/msufred/feathericons/SearchIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/activity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/airplay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/alert-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/alert-octagon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/alert-triangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/align-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/anchor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/aperture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/archive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-down-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-down-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-down-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-left-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-right-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-up-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-up-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-up-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/at-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/award.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bar-chart-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bar-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/battery-charging.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/battery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bell-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/book-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/camera-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/check-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/check-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevron-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevron-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevrons-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevrons-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevrons-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chevrons-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/chrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud-drizzle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud-lightning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud-rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud-snow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/io/github/msufred/feathericons/TestMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OqrAyHlIiIjm6kFHsCqfQgPnmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RAFIS-DIMAISIP\IdeaProjects\feather-icons\svg" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.msufred.feathericons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.msufred.feathericons.TestMain" />
+      <module name="feather-icons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.msufred.feathericons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f1ff28-9c26-409d-85c8-aa80b65ce581" name="Changes" comment="" />
+      <created>1682298813415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682298813415</updated>
+    </task>
+    <servers />
+  </component>
+</project>
