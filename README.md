@@ -1,7 +1,8 @@
 # feather-icons
-Feather Icons library for JavaFx applications
+Feather Icons library for JavaFx applications based on icon designs from https://feathericons.com/.
 
-Based on icon designs from https://feathericons.com/
+### Latest Release
+https://github.com/msufred/feather-icons/releases/download/v1.0.0/feather-icons_v1.0.0.jar
 
 ### Usage:
 
